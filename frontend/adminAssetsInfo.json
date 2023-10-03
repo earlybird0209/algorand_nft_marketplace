@@ -1,0 +1,1014 @@
+[
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102080,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557012
+    },
+    "assetDetails": {
+      "created-at-round": 21557012,
+      "deleted": false,
+      "index": 89102080,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Zomp",
+        "name-b64": "Wm9tcA==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#39A78E",
+        "unit-name-b64": "IzM5QTc4RQ==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102195,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557027
+    },
+    "assetDetails": {
+      "created-at-round": 21557027,
+      "deleted": false,
+      "index": 89102195,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Zaffre",
+        "name-b64": "WmFmZnJl",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#0014A8",
+        "unit-name-b64": "IzAwMTRBOA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102267,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557039
+    },
+    "assetDetails": {
+      "created-at-round": 21557039,
+      "deleted": false,
+      "index": 89102267,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "YInMn Blue",
+        "name-b64": "WUluTW4gQmx1ZQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#2E5090",
+        "unit-name-b64": "IzJFNTA5MA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102324,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557049
+    },
+    "assetDetails": {
+      "created-at-round": 21557049,
+      "deleted": false,
+      "index": 89102324,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow Sunshine",
+        "name-b64": "WWVsbG93IFN1bnNoaW5l",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFF700",
+        "unit-name-b64": "I0ZGRjcwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102479,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557066
+    },
+    "assetDetails": {
+      "created-at-round": 21557066,
+      "deleted": false,
+      "index": 89102479,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow Orange (Color Wheel)",
+        "name-b64": "WWVsbG93IE9yYW5nZSAoQ29sb3IgV2hlZWwp",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FF9505",
+        "unit-name-b64": "I0ZGOTUwNQ==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102631,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557088
+    },
+    "assetDetails": {
+      "created-at-round": 21557088,
+      "deleted": false,
+      "index": 89102631,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow Orange",
+        "name-b64": "WWVsbG93IE9yYW5nZQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": " #FFAE42",
+        "unit-name-b64": "ICNGRkFFNDI=",
+        "url": "https://www.xcolorand.com",
+        "url-b64": "aHR0cHM6Ly93d3cueGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102693,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557099
+    },
+    "assetDetails": {
+      "created-at-round": 21557099,
+      "deleted": false,
+      "index": 89102693,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow-green (Color Wheel)",
+        "name-b64": "WWVsbG93LWdyZWVuIChDb2xvciBXaGVlbCk=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#30B21A",
+        "unit-name-b64": "IzMwQjIxQQ==",
+        "url": "https://www.xcolorand.com",
+        "url-b64": "aHR0cHM6Ly93d3cueGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102878,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557120
+    },
+    "assetDetails": {
+      "created-at-round": 21557120,
+      "deleted": false,
+      "index": 89102878,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow-green (Crayola)",
+        "name-b64": "WWVsbG93LWdyZWVuIChDcmF5b2xhKQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#C5E384",
+        "unit-name-b64": "I0M1RTM4NA==",
+        "url": "https://www.xcolorand.com",
+        "url-b64": "aHR0cHM6Ly93d3cueGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 89102966,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21557127
+    },
+    "assetDetails": {
+      "created-at-round": 21557127,
+      "deleted": false,
+      "index": 89102966,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow-green",
+        "name-b64": "WWVsbG93LWdyZWVu",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#9ACD32",
+        "unit-name-b64": "IzlBQ0QzMg==",
+        "url": "https://www.xcolorand.com",
+        "url-b64": "aHR0cHM6Ly93d3cueGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91734010,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21780255
+    },
+    "assetDetails": {
+      "created-at-round": 21780255,
+      "deleted": false,
+      "index": 91734010,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow (RYB)",
+        "name-b64": "WWVsbG93IChSWUIp",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FEFE33",
+        "unit-name-b64": "I0ZFRkUzMw==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91734120,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21780272
+    },
+    "assetDetails": {
+      "created-at-round": 21780272,
+      "deleted": false,
+      "index": 91734120,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow (process)",
+        "name-b64": "WWVsbG93IChwcm9jZXNzKQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFEF00",
+        "unit-name-b64": "I0ZGRUYwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91736494,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21780285
+    },
+    "assetDetails": {
+      "created-at-round": 21780285,
+      "deleted": false,
+      "index": 91736494,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": " Yellow (Pantone)",
+        "name-b64": "IFllbGxvdyAoUGFudG9uZSk=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FEDF00",
+        "unit-name-b64": "I0ZFREYwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91803637,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21784866
+    },
+    "assetDetails": {
+      "created-at-round": 21784866,
+      "deleted": false,
+      "index": 91803637,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow (NCS)",
+        "name-b64": "WWVsbG93IChOQ1Mp",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFD300",
+        "unit-name-b64": "I0ZGRDMwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91803926,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21784882
+    },
+    "assetDetails": {
+      "created-at-round": 21784882,
+      "deleted": false,
+      "index": 91803926,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": " Yellow (Munsell)",
+        "name-b64": "IFllbGxvdyAoTXVuc2VsbCk=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#EFCC00",
+        "unit-name-b64": "I0VGQ0MwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91804237,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21784902
+    },
+    "assetDetails": {
+      "created-at-round": 21784902,
+      "deleted": false,
+      "index": 91804237,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow (Crayola)",
+        "name-b64": "WWVsbG93IChDcmF5b2xhKQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FCE883",
+        "unit-name-b64": "I0ZDRTg4Mw==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 91804796,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 21784937
+    },
+    "assetDetails": {
+      "created-at-round": 21784937,
+      "deleted": false,
+      "index": 91804796,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Yellow",
+        "name-b64": "WWVsbG93",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFFF00",
+        "unit-name-b64": "I0ZGRkYwMA==",
+        "url": "xcolorand.com",
+        "url-b64": "eGNvbG9yYW5kLmNvbQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 93680195,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22017686
+    },
+    "assetDetails": {
+      "created-at-round": 22017686,
+      "deleted": false,
+      "index": 93680195,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Wild Strawberry",
+        "name-b64": "V2lsZCBTdHJhd2JlcnJ5",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FF43A4",
+        "unit-name-b64": "I0ZGNDNBNA=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 93856746,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22032235
+    },
+    "assetDetails": {
+      "created-at-round": 22032235,
+      "deleted": false,
+      "index": 93856746,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Vivid tangerine",
+        "name-b64": "Vml2aWQgdGFuZ2VyaW5l",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFA089",
+        "unit-name-b64": "I0ZGQTA4OQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 93882741,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22035725
+    },
+    "assetDetails": {
+      "created-at-round": 22035725,
+      "deleted": false,
+      "index": 93882741,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Wild orchid",
+        "name-b64": "V2lsZCBvcmNoaWQ=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#D470A2",
+        "unit-name-b64": "I0Q0NzBBMg=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 93883059,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22035788
+    },
+    "assetDetails": {
+      "created-at-round": 22035788,
+      "deleted": false,
+      "index": 93883059,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Zomp",
+        "name-b64": "Wm9tcA==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#39A78E",
+        "unit-name-b64": "IzM5QTc4RQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 94234232,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22069183
+    },
+    "assetDetails": {
+      "created-at-round": 22069183,
+      "deleted": false,
+      "index": 94234232,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "White",
+        "name-b64": "V2hpdGU=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#FFFFFF",
+        "unit-name-b64": "I0ZGRkZGRg=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 94234374,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22069202
+    },
+    "assetDetails": {
+      "created-at-round": 22069202,
+      "deleted": false,
+      "index": 94234374,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Wheat",
+        "name-b64": "V2hlYXQ=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#F5DEB3",
+        "unit-name-b64": "I0Y1REVCMw=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 94234448,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22069214
+    },
+    "assetDetails": {
+      "created-at-round": 22069214,
+      "deleted": false,
+      "index": 94234448,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Weezy Blue",
+        "name-b64": "V2VlenkgQmx1ZQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#189BCC",
+        "unit-name-b64": "IzE4OUJDQw=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 94469891,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22098001
+    },
+    "assetDetails": {
+      "created-at-round": 22098001,
+      "deleted": false,
+      "index": 94469891,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet-red",
+        "name-b64": "VmlvbGV0LXJlZA==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#F75394",
+        "unit-name-b64": "I0Y3NTM5NA=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 0,
+      "asset-id": 94470067,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22098021
+    },
+    "assetDetails": {
+      "created-at-round": 22098021,
+      "deleted": false,
+      "index": 94470067,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet-blue (Crayola)",
+        "name-b64": "VmlvbGV0LWJsdWUgKENyYXlvbGEp",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#766EC8",
+        "unit-name-b64": "Izc2NkVDOA=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299785,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941474
+    },
+    "assetDetails": {
+      "created-at-round": 22941474,
+      "deleted": false,
+      "index": 100299785,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet (crayola)",
+        "name-b64": "VmlvbGV0IChjcmF5b2xhKQ==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#963D7F",
+        "unit-name-b64": "Izk2M0Q3Rg=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299829,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941481
+    },
+    "assetDetails": {
+      "created-at-round": 22941481,
+      "deleted": false,
+      "index": 100299829,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet (color wheel)",
+        "name-b64": "VmlvbGV0IChjb2xvciB3aGVlbCk=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#7F00FF",
+        "unit-name-b64": "IzdGMDBGRg=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299896,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941492
+    },
+    "assetDetails": {
+      "created-at-round": 22941492,
+      "deleted": false,
+      "index": 100299896,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet",
+        "name-b64": "VmlvbGV0",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#8F00FF",
+        "unit-name-b64": "IzhGMDBGRg=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299922,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941497
+    },
+    "assetDetails": {
+      "created-at-round": 22941497,
+      "deleted": false,
+      "index": 100299922,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Veronica",
+        "name-b64": "VmVyb25pY2E=",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "A020F0",
+        "unit-name-b64": "QTAyMEYw"
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299948,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941502
+    },
+    "assetDetails": {
+      "created-at-round": 22941502,
+      "deleted": false,
+      "index": 100299948,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Vermilion",
+        "name-b64": "VmVybWlsaW9u",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#D9381E",
+        "unit-name-b64": "I0Q5MzgxRQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100299987,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941511
+    },
+    "assetDetails": {
+      "created-at-round": 22941511,
+      "deleted": false,
+      "index": 100299987,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Vermilion",
+        "name-b64": "VmVybWlsaW9u",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#E34234",
+        "unit-name-b64": "I0UzNDIzNA=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100300034,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941517
+    },
+    "assetDetails": {
+      "created-at-round": 22941517,
+      "deleted": false,
+      "index": 100300034,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Verdigris",
+        "name-b64": "VmVyZGlncmlz",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#43B3AE",
+        "unit-name-b64": "IzQzQjNBRQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100300062,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941522
+    },
+    "assetDetails": {
+      "created-at-round": 22941522,
+      "deleted": false,
+      "index": 100300062,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Venetian red",
+        "name-b64": "VmVuZXRpYW4gcmVk",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#C80815",
+        "unit-name-b64": "I0M4MDgxNQ=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100300667,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941626
+    },
+    "assetDetails": {
+      "created-at-round": 22941626,
+      "deleted": false,
+      "index": 100300667,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Vegas gold",
+        "name-b64": "VmVnYXMgZ29sZA==",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#C5B358",
+        "unit-name-b64": "I0M1QjM1OA=="
+      }
+    }
+  },
+  {
+    "assetInfo": {
+      "amount": 1,
+      "asset-id": 100300692,
+      "deleted": false,
+      "is-frozen": false,
+      "opted-in-at-round": 22941630
+    },
+    "assetDetails": {
+      "created-at-round": 22941630,
+      "deleted": false,
+      "index": 100300692,
+      "params": {
+        "clawback": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "creator": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "decimals": 0,
+        "default-frozen": false,
+        "freeze": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "manager": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "name": "Violet (RYB)",
+        "name-b64": "VmlvbGV0IChSWUIp",
+        "reserve": "3HEYVAERR3GCSJTNACCWBMZZY6VCV7TOLDW2O4CACA5MLWKV7JUY3RVSPQ",
+        "total": 1,
+        "unit-name": "#8601AF",
+        "unit-name-b64": "Izg2MDFBRg=="
+      }
+    }
+  }
+]
